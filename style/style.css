@@ -1,0 +1,30 @@
+.input, .btn {
+    display: flex;
+    flex-direction: column;
+    border-radius: 6px;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    border: 1px solid #dddfe2;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.button {
+    width: 200px;
+    margin-left: 80px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    border: 3px solid black;
+    border-radius: 6px;
+    max-width: 400px;
+    padding: 14px 16px;
+}
